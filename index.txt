@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 discription of portfolio project 
+=======
+discription of portfolio project and about
+>>>>>>> ccb715acd52313e3384a0c3ddb89c03a1ed63
