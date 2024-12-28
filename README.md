@@ -63,3 +63,26 @@ Contributions are welcome! To contribute:
 3. Submit a pull request with a detailed description of your changes.
 
 
+
+
+
+## Issue Title: Add a Contact Form to the Portfolio
+
+### Description
+A fully functional contact form is needed to allow users to communicate directly through the portfolio.
+
+### Steps to Reproduce (if applicable)
+1. Navigate to the current portfolio site.
+2. Notice there is no contact form present.
+
+### Proposed Solution
+- Design and implement a contact form with the following fields:
+  - Name
+  - Email
+  - Message
+- Include validation and an email-sending mechanism.
+
+### Additional Context
+- The form should be visually consistent with the rest of the site's design.
+- Consider adding a CAPTCHA for spam prevention.
+
